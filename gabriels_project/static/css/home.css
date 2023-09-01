@@ -1,0 +1,25 @@
+h1{
+    font-size: large;
+    color: rgb(237, 232, 241);
+}
+body{
+    background-color:rgb(255, 255, 255);
+}
+.nav-item a{
+    
+    color: rgb(26, 24, 24);
+}
+.nav-item a:hover{
+    background-color: rgb(3, 3, 32);
+    border-radius: 10px;
+    transition: 0.5s;
+    color:white;
+    
+}
+.btn{
+    color: black;
+}
+.btn:hover{
+    background-color: black ;
+    color:white;
+}
